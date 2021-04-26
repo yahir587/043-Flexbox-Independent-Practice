@@ -1,0 +1,52 @@
+.menu1 {
+    display: flex;
+    justify-content: center;
+    Background-color: grey;
+    margin: 5px;
+    padding: 8px;
+    border: orange solid 10px;
+
+}
+
+.item1 {
+    Background-color: orange;
+    border: teal solid 10px;
+    margin: 10px;
+    padding: 5px;
+
+}
+
+.menu2 {
+    display: flex;
+    justify-content: center;
+    Background-color: #1a6347;
+    border: #59cfbb solid 10px;
+    margin: 5px;
+    padding: 8px;
+
+
+}
+
+.item2 {
+    Background-color: orange;
+    padding: 5px;
+    margin: 10px;
+    border: #00fff7 dashed 10px;
+}
+
+.menu3 {
+    Background-color: #b52222;
+    padding: 8px;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    border: solid #0052bd 10px;
+
+}
+
+.item3 {
+    Background-color: #d6deff;
+    padding: 5px;
+    margin: 10px;
+    border: #44c26a dotted 10px;
+}
